@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderAssignmentWithEFCore", "OrderAssignmentWithEFCore.csproj", "{198A5540-E4C9-439D-9917-85B7CE3D9C51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderAssignmentDll", "..\OrderAssignmentDll\OrderAssignmentDll.csproj", "{9BE26C3A-1D85-4C5B-A471-041D451CA936}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{198A5540-E4C9-439D-9917-85B7CE3D9C51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{198A5540-E4C9-439D-9917-85B7CE3D9C51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{198A5540-E4C9-439D-9917-85B7CE3D9C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{198A5540-E4C9-439D-9917-85B7CE3D9C51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BE26C3A-1D85-4C5B-A471-041D451CA936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE26C3A-1D85-4C5B-A471-041D451CA936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE26C3A-1D85-4C5B-A471-041D451CA936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE26C3A-1D85-4C5B-A471-041D451CA936}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A02F0EE-1305-48BB-867B-12269876E118}
+	EndGlobalSection
+EndGlobal
