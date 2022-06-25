@@ -43,7 +43,7 @@ namespace OrderAssignmentDll
                         Console.WriteLine("Do you Want to Add More Items");
                         Console.WriteLine("Press : 1");
                         int check=Convert.ToInt32(Console.ReadLine());  
-                        if(check > 1)
+                        if(check == 1)
                         {
                             goto AddMore;
                         }
